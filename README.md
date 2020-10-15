@@ -12,7 +12,7 @@ Figure 2. Indooor environment 2
 
 This datasets consist of RGB images, thermal IR images, 2D LiDAR data, IMU data and UWB data as shown in Figure 3.
 
-<div style="text-align:center"><img src="data_structure.png"></div>
+<div style="text-align:center"><img src="data_structure.png" width="360" height="240"></div>
 Figure 3. Data structure 
 
 

@@ -23,13 +23,24 @@ All data are provided in a compressed 'zip' format and stored in a folder with t
 
 ## Data Format
 - RGB images
+Width: 640, Height: 480 8UC3
 
 - Thermal IR images
+Width: 160, Height: 120 16UC1
 
 - 2D LiDAR data
+Fov: 360, resolution: 0.3
+(count, Vector<(quality, angle, distance)>)
 
 - IMU data
+(time, check, accel x, accel y, accel z, gyro x, gyro y, gyro z, NWU w, NWU x, NWU y, NUW z)
 
 - UWB data
+(try,data)
+
+
+
+## Dataset Download
+
 
 

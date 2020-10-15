@@ -5,4 +5,5 @@
 
 
 
-<span style="display:block;text-align:center">![Test Automation]Indoor_environment_1.png)</span>
+<span style="display:block;text-align:center">
+  ![Test Automation]Indoor_environment_1.png)</span>

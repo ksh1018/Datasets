@@ -6,12 +6,12 @@ Figure 1. Indooor environment 1
 
 <img src="Indoor_environment_2.png"  width="360" height="240">
 Figure 2. Indooor environment 2   
-
+  
 This dataset consists of RGB images, thermal IR images, 2D LiDAR data, IMU data and UWB data as shown in Figure 3.  
 
 <img src="data_structure.png" width="360" height="240"> 
 Figure 3. Data structure  
-
+  
 All data are provided in a compressed 'zip' format and stored in a folder with the date and time the data was collected.  
 
 ## Data Format

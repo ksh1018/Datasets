@@ -30,17 +30,18 @@ Width: 160, Height: 120 16UC1
 
 - 2D LiDAR data
 Fov: 360, resolution: 0.3
-(count, Vector<(quality, angle, distance)>)
+[count, Vector<(quality, angle, distance)>]
 
 - IMU data
-(time, check, accel x, accel y, accel z, gyro x, gyro y, gyro z, NWU w, NWU x, NWU y, NUW z)
+[time, check, accel x, accel y, accel z, gyro x, gyro y, gyro z, NWU w, NWU x, NWU y, NUW z]
 
 - UWB data
-(try,data)
+[try,data]
 
 
 
 ## Dataset Download
+This datasets can be downloaded from [here](https://drive.google.com/drive/folders/1pY3LgR_v4fpzPi170MBkokT65ScvDaCa?usp=sharing).
 
 
 

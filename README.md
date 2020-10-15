@@ -2,7 +2,7 @@
 This dataset was acquired in a corridor style building and a narrow dwelling space as shown in Figure 1 and Figure 2.
 
 <p align="center"><img src="Indoor_environment_1.png"  width="360" height="240"></p>
-Figure 1. Indooor environment 1{: .text-center }
+<center>Figure 1. Indooor environment 1</center>
 
 <p align="center"><img src="Indoor_environment_2.png"  width="360" height="240"></p>
 Figure 2. Indooor environment 2{: .text-center }  
